@@ -1,0 +1,40 @@
+button#create-order-btn {
+    float: right;
+    text-transform: uppercase;
+    background: navy;
+    color: #fff;
+}
+
+.form-block .field .input-field {
+    width: 100%;
+    padding: 7px 10px;
+    border-radius: 5px;
+    border: 1px solid #8c8484;
+}
+
+.form-block .field {
+    padding: 5px 0;
+}
+
+.form-block .field label {
+    font-size: 12px;
+    margin-bottom: 5px;
+    display: block;
+}
+
+.form-block hr {
+    margin: 30px 0;
+    border-color: white;
+}
+
+button#create-order-btn {
+    float: right;
+    text-transform: uppercase;
+    background: navy;
+    color: #fff;
+    margin-top: 10px;
+}
+
+.form-block .field textarea {
+    height: 77px;
+}
